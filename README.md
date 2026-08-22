@@ -86,23 +86,7 @@ Some of my security research and projects:
 
 > More research projects and technical write-ups will be added here as they are published.
 
-## 📊 GitHub Stats
 
-<a href="https://github.com/0xMo-Error">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMo-Error&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
-</a>
 
-<a href="https://github.com/0xMo-Error">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMo-Error&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-## 📫 Connect
-
-* **GitHub:** [@0xMo-Error](https://github.com/0xMo-Error)
-* **LinkedIn:** [Mohamed Atef](YOUR_LINKEDIN_URL)
-* **Bug Bounty:** [YesWeHack](YOUR_YESWEHACK_URL)
-* **HackerOne:** [Profile](YOUR_HACKERONE_URL)
-
----
 
 *"Understand the code. Map the attack surface. Find the vulnerability."*
