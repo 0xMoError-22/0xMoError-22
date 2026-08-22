@@ -1,6 +1,6 @@
 <!-- Header -->
 
-[![Header](2073173.jpg)](https://github.com/0xMo-Error)
+[![Header](head.jfif)](https://github.com/0xMo-Error)
 
 # Hello, folks! 👋
 
