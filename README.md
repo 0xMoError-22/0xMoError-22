@@ -1,56 +1,76 @@
-# Hey, I'm Mohamed Atef 👋
+# Mohamed Atef
 
-**Offensive Security Practitioner & Security Researcher**
+**0xMoError**
 
-I focus on offensive security across **Web Applications, Android, and Active Directory**, while expanding my research into **Vulnerability Research, Binary Exploitation, and Exploit Development**.
+### Offensive Security Engineer
 
-## 🔐 Focus
+I'm an **Offensive Security Engineer** specializing in **Web Application, Android Application, and Active Directory security**.
 
-Web Security · Android Security · Active Directory · Red Teaming · Vulnerability Research · Exploit Development
+My work focuses on hands-on penetration testing, vulnerability discovery, realistic attack simulation, and understanding how applications and enterprise environments can be attacked. I also participate in bug bounty programs and continuously expand my offensive security capabilities into **Vulnerability Research, Binary Exploitation, and Exploit Development**.
 
-## 🔧 Technologies & Tools
+## Core Skills
 
-**Languages**
+### Web Application Security
 
-![](https://img.shields.io/badge/Python-informational?style=flat\&logo=python\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/C-informational?style=flat\&logo=c\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/C%2B%2B-informational?style=flat\&logo=cplusplus\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/PHP-informational?style=flat\&logo=php\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat\&logo=javascript\&logoColor=white\&color=2bbc8a)
+Hands-on experience with web application and API penetration testing, vulnerability discovery, exploitation, and attack-surface analysis.
 
-**Security**
+I have reported vulnerabilities through bug bounty programs and work extensively with application logic, authentication, authorization, APIs, and complex attack surfaces.
 
-![](https://img.shields.io/badge/Burp_Suite-informational?style=flat\&logo=burpsuite\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/Frida-informational?style=flat\&logo=frida\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/JADX-informational?style=flat\&logo=android\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/MobSF-informational?style=flat\&logo=android\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/BloodHound-informational?style=flat\&logo=neo4j\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/Certipy-informational?style=flat\&logo=python\&logoColor=white\&color=2bbc8a)
-![](https://img.shields.io/badge/Wireshark-informational?style=flat\&logo=wireshark\&logoColor=white\&color=2bbc8a)
+**Focus:** Web & API Pentesting · Authentication · Authorization · Business Logic · SSRF · SQLi · XSS · File Uploads
 
-## 🧪 Research
+### Android Application Security
 
-Currently exploring:
+Hands-on experience performing static and dynamic analysis of Android applications and libraries, including reverse engineering and runtime instrumentation.
 
-* Vulnerability Research
-* Open-source Security
-* Binary Exploitation
-* Exploit Development
+**Focus:** Android Pentesting · Static Analysis · Dynamic Analysis · Reverse Engineering · Runtime Instrumentation
+
+### Active Directory & Red Teaming
+
+Hands-on experience with Active Directory penetration testing and offensive attack chains, including enumeration, privilege escalation, lateral movement, Kerberos, and ADCS.
+
+**Certification:** CRTE — Certified Red Team Expert
+
+## 🔬 Vulnerability Research
+
+Currently expanding my offensive security work into **Vulnerability Research**.
+
+I'm particularly interested in researching open-source projects and understanding vulnerabilities from the **source-code and root-cause level**, including:
+
+* Source Code Analysis
+* Attack Surface Mapping
+* Vulnerability Root-Cause Analysis
+* Open-Source Security Research
+* CVE Research
+* Proof-of-Concept Development
+* Android Libraries & Applications
+* Web Applications & Frameworks
+
+## 💻 Exploit Development
+
+Developing deeper knowledge in **Binary Exploitation and Windows Exploit Development**, with a focus on understanding memory corruption, exploitation primitives, and the fundamentals behind modern exploitation techniques.
+
+## 🧰 Tools
+
+**Web & API**
+
+`Burp Suite` · `ffuf` · `Gobuster` · `ParamSpider` · `Semgrep` · `CodeQL`
+
+**Android**
+
+`JADX` · `MobSF` · `Frida` · `Objection` · `Apktool` · `ADB`
+
+**Active Directory & Red Teaming**
+
+`BloodHound` · `Certipy` · `Certify` · `PowerView` · `SharpView` · `Wireshark` · `Sliver`
+
+**Development & Research**
+
+`Python` · `C` · `C++` · `PHP` · `JavaScript` · `Bash`
 
 ## 📜 Certification
 
 **CRTE — Certified Red Team Expert**
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/0xMo-Error">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMo-Error&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/0xMo-Error">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMo-Error&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-## 🌐 Connect
+## 🔗 Connect
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [HackerOne](YOUR_HACKERONE_URL) · [YesWeHack](YOUR_YESWEHACK_URL)
