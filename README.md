@@ -6,7 +6,7 @@
 
 My name is **Mohamed Atef**, also known as **0xMoError**.
 
-I'm an **Offensive Security Engineer** specializing in **Web Application Security & Penetration Testing, Android Application Security & Penetration Testing, Active Directory, and Vulnerability Research**.
+I'm an **Offensive Security Engineer** specializing in **Web Application Security & Penetration Testing, Android Application Security & Penetration Testing, Active Directory Penetration Testing, and Vulnerability Research**.
 
 My work includes **vulnerability discovery, penetration testing, red teaming, CVE research, and exploit development**. I also participate in **bug bounty programs**, with **Hall of Fame recognition from 10+ companies** across platforms such as **YesWeHack and Bugcrowd**.
 
