@@ -1,6 +1,6 @@
 <!-- Header -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png)](https://github.com/0xMo-Error)
+[![Header](2073173.jpg)](https://github.com/0xMo-Error)
 
 # Hello, folks! 👋
 
