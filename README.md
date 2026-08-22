@@ -1,6 +1,6 @@
 <!-- Header -->
 
-[![Header](head.jfif)](https://github.com/0xMo-Error)
+[![Header](head2.jfif)](https://github.com/0xMo-Error)
 
 # Hello, folks! 👋
 
